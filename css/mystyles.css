@@ -1,0 +1,65 @@
+/* <!-- Coolors Palette Widget -->
+      <script src="https://coolors.co/palette-widget/widget.js"></script>
+      "b1b1b5" - Silver Metalic
+      "d45465", - paradise pink
+      "d9a922", - goldenrod
+      "3591aa", - bluemunsell
+      "723d40"]); - catawba 
+      </script> */
+
+/* Global styles
+------------------- */
+Body {
+    color: #723d40;
+}
+img {
+    width: 300px;
+}
+a{
+    color: #d9a922;
+}
+a:hover {
+    text-decoration: none;
+}
+
+/* profile
+------------------------- */
+header {
+    background-color: #d45465;
+    color: whitesmoke;
+}
+
+/* Projects
+------------------------- */
+.projects {
+    background-Color: #b1b1b5;
+}
+.projects a {
+    Color: midnightblue;
+}
+.projects .btn {
+    color: whitesmoke;
+    background-color: #723d40;
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 4px;
+}
+.projects .btn:hover {
+    background: rgba(114,61,64,80%)
+}
+
+/* Work Experience
+------------------------ */
+.work-experience {
+    background-color: #d9a922;
+}
+
+/* Education
+------------------------ */
+
+/* Contact Info
+------------------------- */
+footer {
+    background-color: #3591aa;
+    color: whitesmoke;
+}
